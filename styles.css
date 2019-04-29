@@ -10,21 +10,18 @@
  }
  .blnum1{
    display: subgrid;
-   direction: 
    background-color: rgb(235, 143, 6);
    grid-auto-flow: row;
  }
    .blnum1{
       background-color: darkgoldenrod;
       height: 200px;
-      grid-auto-flow: row;
+      
    }
    .blnum11{
       background-color: rgb(175, 71, 71);
       height: 200px;
-      grid-auto-flow: row;
-      grid-column-start: 2;
-      grid-row-start: 1;
+      
 }
  .blnum2{
    background-color: rgb(131, 89, 89);
